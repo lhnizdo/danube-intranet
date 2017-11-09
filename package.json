@@ -1,0 +1,22 @@
+{
+  "name": "danube-intranet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lhnizdo/danube-intranet.git"
+  },
+  "author": "IDEA I&C Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhnizdo/danube-intranet/issues"
+  },
+  "homepage": "https://github.com/lhnizdo/danube-intranet#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
