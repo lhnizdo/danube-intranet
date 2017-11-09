@@ -1,5 +1,5 @@
 {
-  "name": "danube-intranet",
+  "name": "dukane-intranet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lhnizdo/danube-intranet.git"
+    "url": "git+ssh://git@github.com/lhnizdo/dukane-intranet.git"
   },
   "author": "IDEA I&C Technologies",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lhnizdo/danube-intranet/issues"
+    "url": "https://github.com/lhnizdo/dukane-intranet/issues"
   },
-  "homepage": "https://github.com/lhnizdo/danube-intranet#readme",
+  "homepage": "https://github.com/lhnizdo/dukane-intranet#readme",
   "dependencies": {
     "express": "^4.16.2",
     "next": "^4.1.4",

@@ -1,1 +1,1 @@
-export default () => <div>Welcome to DANUBE Intranet!</div>
+export default () => <div>Welcome to DUKANE Intranet!</div>
