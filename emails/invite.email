@@ -1,0 +1,10 @@
+<h1>Welcome to DUKANE Project Manager</h1>
+<br>
+<strong>{{first_name}} {{last_name}}</strong> invited you to participate in project planning.<br>
+<br>
+You can log in here: <a href="{{base_url}}/login">{{base_url}}/login</a><br>
+using your email: {{email}}<br>
+and password: {{password}}<br>
+<br>
+Best Regards<br>
+DUKANE Project Manager

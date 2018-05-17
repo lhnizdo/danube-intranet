@@ -1,0 +1,12 @@
+<h1>Welcome to DUKANE Project Manager</h1>
+<br>
+<strong>{{first_name}} {{last_name}}</strong> invited you to participate in project planning.<br>
+<br>
+You can log in here: <a href="{{base_url}}/login">{{base_url}}/login</a><br>
+using your email: {{email}}<br>
+and password: {{password}}<br>
+<br>
+As a manager you can also invite more people by going to <a href="{{base_url}}/invite-new-user">{{base_url}}/invite-new-user</a> after login, or by navigating to users page and clicking "Invite new user" button.<br>
+<br>
+Best Regards<br>
+DUKANE Project Manager
