@@ -59,3 +59,6 @@ typings/
 
 # next.js
 .next
+
+# yarn.lock
+yarn.lock
